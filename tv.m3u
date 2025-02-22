@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="安徽卫视",安徽卫视
-https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=9949fbf71740243622
+https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=01dc1b611740245434
 #EXTINF:-1 tvg-name="北京卫视",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1740236421&sign=aea270f39d37631f22e98a0b496415a4
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1740238233&sign=11da318049dcdd7139d0d031c1549e02
 #EXTINF:-1 tvg-name="重庆卫视",重庆卫视
 {CHONGQINGTV}
 #EXTINF:-1 tvg-name="东南卫视",东南卫视
-{DONGNANTV}
+https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=0b46b7941740248236
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 {DONGFANGTV}
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
@@ -24,7 +24,7 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=174
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
 {HEILONGJIANGTV}
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04a964956aa2f21d70726aef6a802b34&wsTime=1740250820&wsSession=75ecceda934a47581bca7e65-174023642088329&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5ec0dfe33ddea99d3bb9c8c4879b7004&wsTime=1740252632&wsSession=61daddc5d0def957aff811b8-174023823299000&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="湖北卫视",湖北卫视
 {HUBEITV}
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视
@@ -40,7 +40,7 @@ http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playl
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 #EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
-https://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=e42f8a2e1740380114
+https://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=c0ac09a01740381926
 #EXTINF:-1 tvg-name="青海卫视",青海卫视
 {QINGHAITV}
 #EXTINF:-1 tvg-name="山东卫视",山东卫视
@@ -54,9 +54,9 @@ http://stream.snrtv.com/sxbc-star-ruXY19.m3u8
 #EXTINF:-1 tvg-name="天津卫视",天津卫视
 {TIANJINTV}
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=ff8b39abc15ead5621847bf890e25cdb&time=67b9e676
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=d3c77e431fb371e498915b95e6f40cfe&time=67b9ed7d
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
-https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1740240003-5-5-5dac7046a1d300bfbdb112a8c368be86&aliyun_uuid=fe09327f-3c64-45a1-a86c-14a78412b9bc
+https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1740241802-3-3-8163f2bd7ad40617b5b71159728a1121&aliyun_uuid=b9fc177c-fa89-4e67-8c05-7446ca5e37fa
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
 {YUNNANTV}
 #EXTINF:-1 tvg-name="浙江卫视",浙江卫视
