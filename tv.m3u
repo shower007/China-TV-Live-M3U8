@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="安徽卫视" group-title="安徽",安徽卫视
-https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=ca3b03cc1740984014
+{ANHUITV}
 #EXTINF:-1 tvg-name="北京卫视" group-title="北京",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1740977227&sign=5623721335aae61661956eed6294348c
+{BEIJINGTV}
 #EXTINF:-1 tvg-name="东南卫视" group-title="福建",东南卫视
-https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=c41ad6d41740987228
+https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=4260840e1740987615
 #EXTINF:-1 tvg-name="东方卫视" group-title="上海",东方卫视
-https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1741021205-b4ce131b48b5492baf2b35d4678adab9-0-be518d30b66fbd89f4740f6df3519d45
+{DONGFANGTV}
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="甘肃",甘肃卫视
 https://hls.gstv.com.cn/9hvng2/m96r7x.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="广西",广西卫视
@@ -16,34 +16,34 @@ https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=1fc9c1eabb6d788739a57302df
 #EXTINF:-1 tvg-name="海南卫视" group-title="海南",海南卫视
 https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 #EXTINF:-1 tvg-name="河北卫视" group-title="河北",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1740984430&k=c1a935a8bf5c5d7c0428d827dc1e24cb
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1740984934&k=4ad96c2edf90a96487b30216371758ed
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="黑龙江",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-name="河南卫视" group-title="河南",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=433c7e16418d171bebf457115f5dfe31&wsTime=1740991626&wsSession=03ca612fb257af0ff2ae6766-174097722635196&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5361f6bed28fcfd4362474565ca3ab71&wsTime=1740991874&wsSession=f118c7a12426a6dc7b335898-174097749318168&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="湖北卫视" group-title="湖北",湖北卫视
 {HUBEITV}
 #EXTINF:-1 tvg-name="吉林卫视" group-title="吉林",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=6133e390de7bef1daaf7a865ec3b2234&txTime=67C56F84
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=f92eefc41da17f5767b30ae452a99f7e&txTime=67C5720B
 #EXTINF:-1 tvg-name="江西卫视" group-title="江西",江西卫视
-https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?source=pc&t=174097798943667&token=8dc3d307d9820e4516edb7a9d22dffd3&uuid=e0n3rs5iz9pg
+https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?source=pc&t=174097863621384&token=37080fd976f86eeb2e3f8df7e4c3fac0&uuid=nkgeqmv2ns08
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="内蒙古",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="宁夏",宁夏卫视
 {NINGXIATV}
 #EXTINF:-1 tvg-name="青海卫视" group-title="青海",青海卫视
-https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=144ba8d11740984431
+https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=b0c22a551740984939
 #EXTINF:-1 tvg-name="山东卫视" group-title="山东",山东卫视
-https://clivealone302.iqilu.com/291/cf348386147f4f5da17e4b3bc937bb63/playlist.m3u8?auth=bd707d08bf5ef13e12753ae6adf7ff29&timestamp=1740977374346
+https://clivealone302.iqilu.com/291/cf348386147f4f5da17e4b3bc937bb63/playlist.m3u8?auth=224bf457c30cc721bec4eacdb5c67764&timestamp=1740978026540
 #EXTINF:-1 tvg-name="山西卫视" group-title="山西",山西卫视
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sh84V.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="陕西",陕西卫视
 http://stream.snrtv.com/sxbc-star-akotY9.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="西藏",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=0a0eb91a00bc72ace8bdb28d97e738fc&time=67c533ee
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=cbd05223ebe6047fc9f908fddeb4165f&time=67c534b8
 #EXTINF:-1 tvg-name="新疆卫视" group-title="新疆",新疆卫视
-https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1740980732-0-0-0b53301cccec4000dce71d4dcf6237ae&aliyun_uuid=14238f93-61fd-4bd9-8863-0455144ac51e
+https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1740980935-6-6-76e6fdbd33a14ba37e30289760b2e103&aliyun_uuid=f9364837-b7a4-40de-87fb-a890e345cbd1
 #EXTINF:-1 tvg-name="云南卫视" group-title="云南",云南卫视
 https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="浙江",浙江卫视
-https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1740977443-238lwmjbwgc6i1crjan49fczha9z28aj-0-12b2c58fd7b14e5f8f05691ba226c65a
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1740978033-ep19l9wl8maw6c94be0ha9c3srnui7ma-0-3e39b1ab3030b847427e2a684a2c8000
